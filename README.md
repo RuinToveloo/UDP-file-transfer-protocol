@@ -1,7 +1,3 @@
-Name: Jiqi Hu
-Student number: 20856796
-Student Email: j334hu@uwaterloo.ca
-
 Instruction
     1. to activate network_emulator.sh, sender.sh and receiver.sh, please command:
         chmod +x ./network_emulator.sh
@@ -31,6 +27,4 @@ Instruction
             <UDP port number used by the emulator to receive ACKs from the receiver>
             <UDP port number used by the receiver to receive data from the emulator>
             <name of the file into which the received data is written>
-
-Machines: j334hu@ubuntu2204-010
 
